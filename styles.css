@@ -1,0 +1,23 @@
+.titulo {
+    font-size: 90pt;
+    color: #0a2ff1;
+    font-weight: "Coolvetica";
+  }
+
+  .card {
+    background-color: #eff2ff; 
+  }
+
+  .card-title {
+    font-size: 18pt;
+    font-weight: "roboto";
+    color: #04146c;
+  }
+  
+  .card-text {
+    font-weight: "roboto black";
+    font-size: 18pt;
+    color: #eff2ff;
+  }
+  
+ 
